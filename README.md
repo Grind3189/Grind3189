@@ -1,8 +1,4 @@
-# 👋🏼 I'm Grind
-
-**_Developer | Web3 Enjoyer | Degen | 24_**
-
-I'm a full-stack developer living in Philippines. I came across blockchain 3 years ago because of blockchain games and later on trading NFTS. I didn't get it at the time but I was amaze of trading something with somebody flawlessly. When bear market came and everybody was screaming "it's the end", I saw the opportunity to go deeper and learn how they make these things from Decentralized applications to Onchain development.  
+# 👋🏼 Hi
 
 ---
 
